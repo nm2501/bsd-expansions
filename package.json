@@ -1,15 +1,12 @@
 {
-  "name": "npm-expansions",
-  "description": "What does n-p-m stand for?",
-  "version": "2.2.4",
-  "author": "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com/)",
-  "bugs": {
-    "url": "https://github.com/npm/npm-expansions/issues"
-  },
+  "name": "bsd-expansions",
+  "description": "What does b-s-d stand for?",
+  "version": "0.0.1",
+  "author": "Neil McMillan <nm@bsdacademy.com>",
   "devDependencies": {
     "tap": "^0.4.13"
   },
-  "homepage": "https://github.com/npm/npm-expansions",
+  "homepage": "https://github.com/nm2501/bsd-expansions",
   "keywords": [
     "abbreviations",
     "acronym",
@@ -21,7 +18,7 @@
   "main": "expansions.json",
   "repository": {
     "type": "git",
-    "url": "https://github.com/npm/npm-expansions"
+    "url": "https://github.com/nm2501/bsd-expansions"
   },
   "scripts": {
     "prepublish": "npm test",
