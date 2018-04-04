@@ -1,5 +1,4 @@
-# npm-expansions
-[![Build Status](http://img.shields.io/travis/npm/npm-expansions.svg?style=flat-square)](https://travis-ci.org/npm/npm-expansions) [![NPM version](http://img.shields.io/npm/v/npm-expansions.svg?style=flat-square)](https://www.npmjs.org/package/npm-expansions) [![NPM license](http://img.shields.io/npm/l/npm-expansions.svg?style=flat-square)](https://www.npmjs.org/package/npm-expansions)
+# bsd-expansions
 
 What does b-s-d stand for?
 
@@ -7,12 +6,14 @@ What does b-s-d stand for?
 
 This is the source code for the three-word thingies that randomly appear in the header of the [npmjs.com](https://npmjs.com) website. Examples include:
 
+- Bettering students daily
 - Beware! Scary dragon.
-- Bring some daisies.
 - Beautiful smile. Danger!
+- Building software developers.
 - Bright sunny days.
-- Bang some drums.
+- Bananas, surely delicious.
 - Baaaa, said dog.
+- Brilliant software, dude.
 
 ## How to Contribute
 
